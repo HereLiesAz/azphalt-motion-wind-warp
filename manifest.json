@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Warps the layer along the shot's own motion vectors, so graphics get dragged by the same wind as the footage.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
